@@ -1,4 +1,6 @@
-# gathoni_L
+## Hi, I'm Lilian Gathoni 👋
+
+I'm a Data Scientist passionate about transforming data into actionable insights that drive business growth and social impact. I enjoy building machine learning models, creating interactive dashboards, and solving real-world problems with Python, SQL, and Power BI. My goal is to leverage data and AI to support smarter decisions in development, finance, healthcare, and consulting across Africa.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lilian-gathoni-b354501a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lgathoni20@gmail.com) 
