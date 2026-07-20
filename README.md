@@ -1,4 +1,4 @@
-## Hi, I'm Lilian Gathoni 👋
+Hi, I'm Lilian Gathoni 👋
 
 I'm a Data Scientist passionate about transforming data into actionable insights that drive business growth and social impact. I enjoy building machine learning models, creating interactive dashboards, and solving real-world problems with Python, SQL, and Power BI. My goal is to leverage data and AI to support smarter decisions in development, finance, healthcare, and consulting across Africa.
 
